@@ -1,1 +1,5 @@
-console.log("hello");
+console.log("Hi");
+
+function a(){
+    alert("Hi!!");
+}
