@@ -4,4 +4,4 @@ function a(){
     alert("Hi!!");
 }
 
-a();
+b();
