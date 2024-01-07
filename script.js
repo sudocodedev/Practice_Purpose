@@ -1,7 +1,7 @@
 console.log("Hi");
 
 function a(){
-    alert("Hi!!");
+    confirm("hello");
 }
 
 b();
